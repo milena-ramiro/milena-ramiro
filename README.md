@@ -42,7 +42,7 @@
 
 <img align="right" src="https://github.com/milena-ramiro/milena-ramiro/blob/main/gifs/thatsall.gif" width='300'/>
 
-<p> If you have same interestings or some questions, contact me, let´s talk :stuck_out_tongue_winking_eye: </p>
+<h4> If you have same interestings or some questions, contact me, let´s talk :stuck_out_tongue_winking_eye: </h4>
 
 <a href="https://twitter.com/milena_ramiro" target="blank"><img align="left" src="icons/twitter.svg" alt="milena_ramiro" width="22px" /></a>
 <a href="https://www.linkedin.com/in/milena-ramiro/" target="blank"><img align="left" src="icons/linkedin.svg" alt="milena-ramiro" width="22px" /></a>
