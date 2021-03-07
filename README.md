@@ -1,7 +1,9 @@
-<h2 align="center"> Hi there, I'm Milena <img src="https://github.com/milena-ramiro/milena-ramiro/blob/main/wave.gif" width="30px"> </h2>
+<h2 align="center"> Hi there, I'm Milena <img src="https://github.com/milena-ramiro/milena-ramiro/blob/main/gifs/wave.gif" width="30px"> </h2>
 <h3 align="center"> A computer science graduate student and a book lover :books:</h3>
 
 <p> I like to write in C# code and I'm exploring the DevOps world. Currently living in <b>Brasil, São Paulo.</b> </p>
+
+
 
 ## :rocket: Technologies & Tools
 
@@ -29,4 +31,23 @@
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 
+## :trophy: Favs 
 
+<img align="left" src="https://github.com/milena-ramiro/milena-ramiro/blob/main/icons/dot-net.svg" />
+<img align="left" src="https://github.com/milena-ramiro/milena-ramiro/blob/main/icons/c-sharp-solid.svg" />
+<img align="left" width="40px" heigth="40px" src="https://github.com/milena-ramiro/milena-ramiro/blob/main/icons/xamarin.svg" />
+
+<br/>
+<br/>
+
+<img align="right" src="https://github.com/milena-ramiro/milena-ramiro/blob/main/gifs/thatsall.gif" width='300'/>
+
+<p> If you have same interestings or some questions, contact me, let´s talk :stuck_out_tongue_winking_eye: </p>
+
+<a href="https://twitter.com/milena_ramiro" target="blank"><img align="left" src="icons/twitter.svg" alt="milena_ramiro" width="22px" /></a>
+<a href="https://www.linkedin.com/in/milena-ramiro/" target="blank"><img align="left" src="icons/linkedin.svg" alt="milena-ramiro" width="22px" /></a>
+<a href="https://t.me/milena_ramiro">
+  <img align="left" alt="Milena´s Telegram" width="22px" src="icons/telegram.svg" />
+</a>
+<a href="https://www.facebook.com/milena.ramiro.7" target="blank"><img align="left" src="icons/facebook.svg" alt="xtenzq" width="22px" /></a>
+<a href="https://www.instagram.com/milenaramiro/" target="blank"><img align="left" src="icons/instagram.svg" alt="xtenzq" width="22px" /></a>
